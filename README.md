@@ -1,8 +1,11 @@
 # shopping-list
 
+https://jmk1007.github.io/shopping-list/
+
 Html, CSS, JavaScript 연습
 
 쇼핑리스트📑
+
 
 
 1. 쇼핑 목록을 작성 및 삭제가 가능하다.
